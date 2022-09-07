@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+
 <h3 align="center">I am obsessed with coding and I always encourage being an effective person in a team rather than taking all the roles. I enjoy building software with a pragmatic mindset, using good architecture, modern tools and the best of the practices</h3>
 
 - 🌱 I’m currently learning **domain driven design**
